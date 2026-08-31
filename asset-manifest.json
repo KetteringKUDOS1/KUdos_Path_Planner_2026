@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/KUdos_Path_Planner_2026/static/css/main.8412dacf.css",
+    "main.js": "/KUdos_Path_Planner_2026/static/js/main.ec68cf2d.js",
+    "precache/V5RC-FieldPerimeter-12ft12ft-TopDown-TileColor66_71@1.0.png": "/KUdos_Path_Planner_2026/precache/V5RC-FieldPerimeter-12ft12ft-TopDown-TileColor66_71@1.0.png",
+    "precache/V5RC-Override-H2H-TopDownHighlighted-TileColor66_71@0.1+2000px.png": "/KUdos_Path_Planner_2026/precache/V5RC-Override-H2H-TopDownHighlighted-TileColor66_71@0.1+2000px.png",
+    "service-worker.js": "/KUdos_Path_Planner_2026/service-worker.js",
+    "precache/favicon.ico": "/KUdos_Path_Planner_2026/precache/favicon.ico",
+    "index.html": "/KUdos_Path_Planner_2026/index.html",
+    "main.8412dacf.css.map": "/KUdos_Path_Planner_2026/static/css/main.8412dacf.css.map",
+    "main.ec68cf2d.js.map": "/KUdos_Path_Planner_2026/static/js/main.ec68cf2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8412dacf.css",
+    "static/js/main.ec68cf2d.js"
+  ]
+}
