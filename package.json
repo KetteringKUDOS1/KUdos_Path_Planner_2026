@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://KetteringKUDOS1.github.io/KUdos_Path_Planner_2026",
-  "scripts": {
+"scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
