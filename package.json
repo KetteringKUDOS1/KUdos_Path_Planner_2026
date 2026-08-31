@@ -4,8 +4,8 @@
   "private": true,
   "homepage": "https://KetteringKUDOS1.github.io/KUdos_Path_Planner_2026",
 "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "craco start",
+    "build": "craco build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
