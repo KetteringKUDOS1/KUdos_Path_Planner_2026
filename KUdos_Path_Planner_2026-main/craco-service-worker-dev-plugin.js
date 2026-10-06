@@ -1,6 +1,3 @@
-// See: https://stackoverflow.com/questions/65063966/how-to-use-the-service-worker-in-dev-mode-with-create-react-app
-// See: https://developer.chrome.com/docs/workbox/reference/workbox-webpack-plugin/#type-InjectManifest
-// See: https://github.com/facebook/create-react-app/issues/11060
 
 const WorkboxWebpackPlugin = require("workbox-webpack-plugin");
 const path = require("path");

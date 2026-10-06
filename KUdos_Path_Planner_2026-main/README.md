@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Kudos Path Planner is a Progressive Web App (PWA) built specifically for our team's workflow. It is installable and works fully offline across laptops, tablets, and mobile devices in the pit or lab.
+Kudos Path Planner is a Progressive Web App (PWA) built specifically for our team's workflow. It is installable and works fully offline across laptops, tablets, and mobile devices anywhere.
 
 It allows our team to design, visualize, and edit autonomous routes using intuitive click-and-drag Bézier curves. The editor exports structured coordinate data $(x, y, \theta)$ directly compatible with our robot's path-following algorithms.
 
